@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RssReader</string>
+    <string name="_1_tm_1_td_1_h">%1$tm月%1$td日%1$H時</string>
+</resources>
