@@ -15,7 +15,7 @@
             app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintVertical_bias="0.45"
             tools:text="ニュースタイトル" android:textAppearance="@style/TextAppearance.AppCompat.Medium"/>
     <TextView
-            android:text="@string/_1_tm_1_td_1_h"
+            android:text="@string/pubDate"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/pubDate" android:layout_marginTop="56dp"
